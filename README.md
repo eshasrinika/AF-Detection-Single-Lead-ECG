@@ -8,7 +8,7 @@ Project Overview
 
 ECG preprocessing: baseline wander removal, noise reduction, beat segmentation
 
-Hybrid CNN + LSTM architecture for spatial + temporal feature learning
+Hybrid CNN + BiLSTM architecture for spatial + temporal feature learning
 
 Beat-level classification for AF vs Normal Sinus Rhythm
 
